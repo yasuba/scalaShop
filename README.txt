@@ -1,11 +1,9 @@
+##ScalaShop
+
 To run the tests:
-
-
 (With SBT installed)
 cd Checkout
 sbt test
-
-Otherwise they can be run from an IDE with SBT plugin
 
 Instructions:
 
