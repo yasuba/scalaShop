@@ -1,5 +1,7 @@
 #ScalaShop
 
+A checkout kata built with Scala, SBT, Scalatra and tested with ScalaTest's WordSpec.
+
 To run the tests (with SBT installed):
 
     cd Checkout
