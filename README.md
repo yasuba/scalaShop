@@ -1,11 +1,11 @@
-##ScalaShop
+#ScalaShop
 
-To run the tests:
-(With SBT installed)
-cd Checkout
-sbt test
+To run the tests (with SBT installed):
 
-Instructions:
+    cd Checkout
+    sbt test
+
+##Instructions
 
 Implement the code for a supermarket checkout that calculates the total price
 of a number of items. In a normal supermarket, things are identified using
