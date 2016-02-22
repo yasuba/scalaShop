@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0m[32mCheckoutSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mthe SKUs[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have an identifying letter[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a price[0m[0m
+[0m[[0minfo[0m] [0m[32mthe discounts[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have an item reference[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a quantity key[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have a price reduction value[0m[0m
+[0m[[0minfo[0m] [0m[32mthe checkout[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow items to be added[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully calculate the total price of an item[0m[0m
+[0m[[0minfo[0m] [0m[32m- should know that certain items have discounts[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully calculate prices with more than one discount applied[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully calculate prices when there are more items than a discount specifies[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully apply two lots of the same discount[0m[0m
+[0m[[0minfo[0m] [0m[32m- should calculate a number of different items and discounts[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow new special offers to be added[0m[0m
